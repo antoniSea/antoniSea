@@ -23,6 +23,6 @@ Antoni Seba tel.: 576 205 389 e-mail: antonseba01@gmail.com
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antonisea&show_icons=true&locale=en&count_private=true" alt="antonisea" /></p>
 <br />
-<img src="https://www.codewars.com/users/antoniSea/badges/large" />
+<a href="https://www.codewars.com/users/antoniSea"><img src="https://www.codewars.com/users/antoniSea/badges/large" /></a>
 
 
