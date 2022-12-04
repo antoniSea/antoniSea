@@ -9,7 +9,9 @@ Antoni Seba tel.: 576 205 389 e-mail: antonseba01@gmail.com
 
 - 👨‍💻 Moje portfolio jest dostępne na: https://antoniseba.pl
 
-- Mój blog o programowaniu: https://blog.antoniseba.pl
+- 😎 Mój blog o programowaniu: https://blog.antoniseba.pl
+
+- 🤵 Panel klienta: https://progress.antoniseba.pl
 
 <h3 align="left">Skontaktuj się ze mną:</h3>
 <p align="left">
