@@ -15,8 +15,8 @@ Antoni Seba tel.: 576 205 389 e-mail: antonseba01@gmail.com
 
 <h3 align="left">Skontaktuj się ze mną:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/antoni seba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoni seba" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/antoni seba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="antoni seba" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/antoni-seba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoni seba" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC2G2UUGWNbH78wXveikHmJg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="antoni seba" height="30" width="40" /></a>
 <a href="https://discord.gg/A Seb#7672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="A Seb#7672" height="30" width="40" /></a>
 </p>
 
