@@ -13,6 +13,8 @@ Antoni Seba tel.: 576 205 389 e-mail: antonseba01@gmail.com
 
 - 🤵 Panel klienta: https://progress.antoniseba.pl
 
+- Narzędzia SEO: https://seo.antoniseba.pl
+
 <h3 align="left">Skontaktuj się ze mną:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/antoni-seba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoni seba" height="30" width="40" /></a>
