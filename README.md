@@ -7,7 +7,7 @@ Antoni Seba tel.: 576 205 389 e-mail: antonseba01@gmail.com
 
 - 🌱 Aktualnie uczę się: **Tensorflow mashine learning**
 
-- 👨‍💻 Moje portfolio jest dostępne na: https://antoniseba.pl
+- 👨‍💻 Moje portfolio jest dostępne na: https://antoni-seba.pl
 
 - 😎 Mój blog o programowaniu: https://blog.antoniseba.pl
 
